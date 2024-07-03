@@ -12,17 +12,17 @@
 - Experimentally designing new and unique front-end applications which enable seamless interaction between machine learning APIs and the user.
 
 # Technical Skills
-- C
-- HLSL
-- C#
 - Java
-- JavaFX
+- C#
+- C
+- Git
 - Python
-- Kivy
-- Microsoft Access
-- CSS
+- MySQL
+- MATLAB
 - HTML
-- Matlab
-- R
-- Fusion 360
-- Applied CNC
+- CSS
+- JavaFX
+- JavaScript
+- Unity
+- CNC / 3D Printing
+- CAD
