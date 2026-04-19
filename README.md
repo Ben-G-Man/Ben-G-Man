@@ -1,10 +1,10 @@
 # Kia ora! I’m Benjamin (*@Ben-G-Man*)
 
-**I'm an aspiring software engineer studying in my third year at the University of Auckland, New Zealand**
+**I'm a recent BE(Hons) Software Engineering graduate (the University of Auckland, New Zealand) currently based in Melbourne, Australia.**
 
 # Upcoming Projects
 - **Super-Heavy** - Super-Heavy is a top-down open world combat and stealth game set in a dark dystopian near-future where horrific bio-machines are commonplace.
-- **Texacorp** - Texacorp is an experimental escape room game which pitches the player against an omnipotent artificial intelligence driven by the Open AI Chat GPT API. Texacorp's most exciting mechanics leverage the functional limitations of large language models to the player's advantage.
+- **Sam Hume Creative Portfolio** - My brother (the Sam Hume in question) and I have been co-developing his creative design portfolio website since late 2025. This site is currently live at www.samhume-portfolio.space.
 
 # Interests
 - Creating expansive and modular video-game systems.
@@ -12,17 +12,14 @@
 - Experimentally designing new and unique front-end applications which enable seamless interaction between machine learning APIs and the user.
 
 # Technical Skills
-- Java
 - C#
-- C
-- Git
-- Python
-- MySQL
-- MATLAB
-- HTML
+- Java
+- TypeScript
 - CSS
-- JavaFX
-- JavaScript
+- HTML
+- React
+- Angular
+- Go
+- Python
+- HLSL / C++
 - Unity
-- CNC / 3D Printing
-- CAD
